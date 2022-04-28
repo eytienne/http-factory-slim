@@ -1,5 +1,5 @@
 {
-    "name": "http-interop/http-factory-slim",
+    "name": "eytienne/http-factory-slim",
     "description": "An HTTP Factory using Slim HTTP",
     "keywords": [
         "psr-7",
